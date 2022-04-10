@@ -190,18 +190,18 @@ id,type,domain,enabled,date_added,date_modified,comment
 189,0,youtube-nocookie.com,1,1638180442,1638180442,"Migrated from /etc/pihole/whitelist.txt"
 190,0,yt3.ggpht.com,1,1638180442,1638180442,"Migrated from /etc/pihole/whitelist.txt"
 191,0,zee.cws.conviva.com,1,1638180442,1638180442,"Migrated from /etc/pihole/whitelist.txt"
-192,3,^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-193,3,^(.+[_.-])?telemetry[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-194,3,"^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]",1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-195,3,^adim(age|g)s?[0-9]*[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-196,3,^adtrack(er|ing)?[0-9]*[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-197,3,^advert(s|is(ing|ements?))?[0-9]*[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-198,3,^aff(iliat(es?|ion))?[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-199,3,^analytics?[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-200,3,^banners?[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-201,3,^beacons?[0-9]*[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-202,3,^count(ers?)?[0-9]*[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-203,3,^mads\.,1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-204,3,^pixels?[-.],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
-205,3,^stat(s|istics)?[0-9]*[_.-],1,1638180442,1638180442,"Migrated from /etc/pihole/regex.list"
+192,3,^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-],1,1638180442,1649609950,
+193,3,^(.+[_.-])?telemetry[_.-],1,1638180442,1649609950,
+194,3,"^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]",1,1638180442,1649609950,
+195,3,^adim(age|g)s?[0-9]*[_.-],1,1638180442,1649609950,
+196,3,^adtrack(er|ing)?[0-9]*[_.-],1,1638180442,1649609950,
+197,3,^advert(s|is(ing|ements?))?[0-9]*[_.-],1,1638180442,1649609950,
+198,3,^aff(iliat(es?|ion))?[_.-],1,1638180442,1649609950,
+199,3,^analytics?[_.-],1,1638180442,1649609950,
+200,3,^banners?[_.-],1,1638180442,1649609950,
+201,3,^beacons?[0-9]*[_.-],1,1638180442,1649609950,
+202,3,^count(ers?)?[0-9]*[_.-],1,1638180442,1649609950,
+203,3,^mads\.,1,1638180442,1649609950,
+204,3,^pixels?[-.],1,1638180442,1649609950,
+205,3,^stat(s|istics)?[0-9]*[_.-],1,1638180442,1649609950,
 206,1,litedev.eu.ezvizlife.com,1,1649321343,1649321343,"Added from Query Log"
