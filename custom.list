@@ -34,3 +34,6 @@
 100.108.79.93 pmx.tail
 100.84.18.46 lap-francis.tail
 100.123.223.106 hass.tail
+192.168.13.1 pmx.h2o
+192.168.13.253 tailscale.h2o
+192.168.13.2 kit.h2o
