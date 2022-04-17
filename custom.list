@@ -10,7 +10,6 @@
 100.105.137.17 kit.tail.h2o
 100.114.177.81 denis-gsm.tail.h2o
 100.97.9.101 denis-mbp.tail.h2o
-100.115.40.120 pmx-nas.tail.h2o
 100.121.134.48 pmx-w10.tail.h2o
 100.92.199.78 udm.tail.h2o
 172.18.0.1 custos.dck
@@ -50,3 +49,5 @@
 100.100.139.93  pmx-vscode.h2o
 
 192.168.14.1 custos.custos.h2o
+100.65.83.20 pmx-nas.tail.h2o
+192.168.13.3 pmx-nas.pmx.h2o
