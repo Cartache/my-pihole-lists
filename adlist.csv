@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1638180442,1638180442,"Migrated from /etc/pihole/adlists.list",1649557262,110298,0,2
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1638180442,1638180442,"Migrated from /etc/pihole/adlists.list",1650161342,111035,0,1
 3,https://hosts.anudeep.me/mirror/adservers.txt,1,1649605913,1649605922,,1649605947,42553,0,2
-4,https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt,1,1649606156,1649606156,https://adaway.org/,1649606167,7060,0,2
-5,https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt,1,1649606375,1649606375,https://github.com/AdguardTeam/cname-trackers,1649606385,27516,0,1
+4,https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt,1,1649606156,1649606156,https://adaway.org/,1650161344,7053,0,1
+5,https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt,1,1649606375,1649606375,https://github.com/AdguardTeam/cname-trackers,1650161345,28362,0,1
